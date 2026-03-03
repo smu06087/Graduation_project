@@ -65,10 +65,25 @@
 ------------------------------------------------------------------------------------------------ <br>
 
 5. ERD (데이터베이스 설계) <br>
+1.1 시스템 전체 클래스 다이어그램
+https://github.com/smu06087/Graduation_project/blob/main/images/%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%A0%84%EC%B2%B4%20Class%20Diagram.png
+   
+1.2 실시간 클래스 다이어그램
+https://github.com/smu06087/Graduation_project/blob/main/images/%EC%8B%A4%EC%8B%9C%EA%B0%84%20%ED%81%B4%EB%9E%98%EC%8A%A4%20%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8.png
+
+1.3 예상 클래스 다이어그램
+https://github.com/smu06087/Graduation_project/blob/main/images/%EC%98%88%EC%83%81%20%ED%81%B4%EB%9E%98%EC%8A%A4%20%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8.png
+
+1.4 입장 대기 시간 클래스 다이어그램
+https://github.com/smu06087/Graduation_project/blob/main/images/%EC%9D%B4%EB%8F%99%20%EC%86%8C%EC%9A%94%20%EC%8B%9C%EA%B0%84%20%ED%81%B4%EB%9E%98%EC%8A%A4%20%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8.png
+
+1.5 이동 소요 시간 클래스 다이어그램
+https://github.com/smu06087/Graduation_project/blob/main/images/%EC%9E%85%EC%9E%A5%20%EB%8C%80%EA%B8%B0%20%EC%8B%9C%EA%B0%84%20%ED%81%B4%EB%9E%98%EC%8A%A4%20%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8.png
+
 
 ------------------------------------------------------------------------------------------------ <br>
 
-6. 트러블 슈팅 (Trobuleshooting) <br>
+7. 트러블 슈팅 (Trobuleshooting) <br>
 
 6-1. 데이터 중복 저장 문제 (CSV 누적 이슈) <br>
 🔹 문제 <br>
